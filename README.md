@@ -2,7 +2,7 @@
 
 Data understanding and preparation
 
-Retailer X has provided you with four files:
+Retailer X has provided four files:
 
     Customer data in the csv format (Data Science Academy – Customer Data Set – Student 1 of 3.csv).
     Product data in the csv format (Data Science Academy – Product Data Set – Student 2 of 3.csv).
